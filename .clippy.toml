@@ -2,5 +2,5 @@
 # state so in clippy's documentation).
 # Note: only lint configurations can be placed here, lints must be placed in `.cargo/config.toml`.
 
-allow-unwrap-in-tests = true
+allow-unwrap-in-tests =false
 enum-variant-size-threshold = 500
